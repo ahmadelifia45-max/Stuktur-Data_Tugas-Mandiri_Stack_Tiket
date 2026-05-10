@@ -1,4 +1,4 @@
-# Tugas Struktur Data - Stack
+# Tugas Struktur Data - Stack - Tiket Bioskop
 
 **Informasi Mahasiswa:**
 - **Nama**  : Ahmad Elifia Ashari
